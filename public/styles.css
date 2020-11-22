@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+}
+
+#chatBox{
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  overflow-y: scroll;
+}
+p{
+  text-align: right;
+}
+.user{
+  text-align: left;
+}
